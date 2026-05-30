@@ -291,7 +291,7 @@ export default function App() {
                   {dailyQuote.author}
                 </span>
                 <span className="text-xs italic text-[#888888] font-serif">
-                  {dailyQuote.author === "Marcus Aurelius" ? "মার্কাস অরেলিয়াস" : dailyQuote.author === "Seneca" ? "সেনেকা" : "এপিকটেটাস"} — {dailyQuote.sourceText}
+                  {dailyQuote.sourceText}
                 </span>
               </div>
 
