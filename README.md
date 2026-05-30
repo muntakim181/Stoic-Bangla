@@ -1,7 +1,7 @@
 # Stoic-Bangla
 
 **Stoic Philosophy made accessible for native Bangla speakers.**
-
+Visit: [stoic-bangla](https://stoic-bangla.vercel.app)
 ## About The Project
 
 Stoic philosophy is powerful, but the traditional English translations of these ancient quotes can sometimes be difficult to grasp—even for native English speakers. 
