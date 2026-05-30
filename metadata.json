@@ -1,0 +1,6 @@
+{
+  "name": "Stoic Bangla",
+  "description": "Read and explore Stoic philosophy translated into simple Bangla with metaphors explained, optimized for readers who feel sad, numb, or overwhelmed.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
