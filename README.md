@@ -16,7 +16,7 @@ Stoic philosophy is powerful, but the traditional English translations of these 
 
 ## How It Was Built
 
-This app was built using a **vibe coding** approach. The quotes were hand-picked and collected manually, while the heavy lifting of translating the philosophical nuances into Bangla was handled by the Gemini API. The architecture is kept intentionally simple and minimal, relying strictly on JSON.
+This app was built using a **vibe coding** approach. The quotes were hand-picked and collected manually, some found in csv while the heavy lifting of translating the philosophical nuances into Bangla was handled by the Gemini API. The architecture is kept intentionally simple and minimal, relying strictly on JSON.
 
 ## Disclaimer
 
@@ -25,16 +25,6 @@ Because the translation database was generated via AI, and philosophical quotes 
 ## Contributing
 
 Contributions are highly encouraged! If you spot a translation that could be more accurate, sound more natural, or capture the Stoic vibe better, please help improve the database.
-
-1. Fork the repository
-2. Modify the JSON file with your improved translations
-3. Commit your changes (`git commit -m 'Improve translation for quote ID X'`)
-4. Push to the branch (`git push origin main`)
-5. Open a Pull Request
-
-## Getting Started
-
-*(Note: Add your specific installation or setup instructions here, depending on the framework you used for the frontend!)*
 
 ---
 **Author:** [Muntakim181](https://github.com/muntakim181)
